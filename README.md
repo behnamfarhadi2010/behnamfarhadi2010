@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript, HTML, CSS and Project management
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/behnamfarhadi/)  
+💼 [LinkedIn](https://www.linkedin.com/in/farhadi-behnam)  
 🌐 [Website](#) (Coming Soon)  
 📩 farhadi.behnam@gmail.com  
 
