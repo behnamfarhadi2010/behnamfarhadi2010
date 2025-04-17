@@ -10,4 +10,4 @@
 🌐 [Website](#) (Coming Soon)  
 📩 farhadi.behnam@gmail.com  
 
-Thanks for visiting my GitHub! 🚀 Feel free to explore my repositories and reach out if you'd like to collaborate.  
+Thanks for visiting my GitHub!  Feel free to explore my repositories and reach out if you'd like to collaborate.  
